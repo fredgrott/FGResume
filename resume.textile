@@ -1,0 +1,77 @@
+%%%%%%%
+% Slide Show Headers
+
+title: Fred Grott's Resume
+gradient: top_bottom blue navy
+
+%%%%%%%%%%%%%
+% Slides Start Here
+
+h1. Fred Grott's Resume
+
+
+ Use the arrows to move through the slides
+
+h1. Tools I use
+
+* Java OOP knowledge combined with how Dalvik VM operates
+* Eclipse IDE, Google AYDT plugin, Apache AnT
+* Dependency Injection; AndroidAnnotations and RoboGuice/Guice
+* Instrumented Testing, AndroidMock, GUI blackbox testing
+* Singletons, MVP patterns, MVC patterns
+* Agile practices that fit the problems being solved and the situation
+* Ruby/JRuby, Groovy, Python to integrate tools together in my developer
+work-flow
+
+
+h1. My Digital Shadow-Online
+
+
+
+
+
+h1. What I have done Before
+
+
+* Developed Android Applications
+* Developed New Android Library frameworks and Developer Tools
+* Contributed to Improving other Developer Tools cover both IDEs,
+enterprise java and javaME
+* Developed Sever side applications in most of the MVC frameworks covering
+Grails, RoR, Symfony, CakePHP, Django, etc
+* Developed mobile applications in both JavaME and Symbian
+* Authored technical articles in such areas as JavaTV, Enterprise Java, JavaME,
+Android, Linux, Eclipse, and some of those have been published in high respected
+places such as JavaDevlopersJournal and IBM DeveloperWorks
+* Contributed to several open source projects such as Antenna ANT tasks for JavaME,
+Eclipse IDE, Android Project, SynclastUI, Gradle Android Plugin, PhoneGap, etc
+
+
+
+
+
+
+
+h1. Experience
+
+
+p. While you can get a sense of my past experience and education from my linkedINprofile you really should instead view my video demos of actually working applications, experimental applications demos, my coding articles with slides, etc. Thus I will give short list with links and than links at the end to see more:
+
+
+
+h1. Contact
+
+
+* Fred Grott
+* Greater ChicagoLand Area
+* email: "fred.grott@mgail.com":mailto:fred.grott@gmail.com?subject=I saw your resume and
+* gtalk: fred.grott
+* cell phone and GoogleVoice numbers: ask for them
+
+
+
+
+
+
+
+
