@@ -80,11 +80,20 @@ p. While you can get a sense of my past experience and education from my linkedI
 h1. Coding Articles
 
 
+p. Articles cover everything from tool set-up to the complex subjects of Object Oriented Programming applied in a constrained Virtual Machine environment such as androdi's Dalvik. You will also see a mix of parterns and anti-patterns, dependency injection tehcniques along with testing and mocking and other advance techniques.
+
+
+
+
 *
 *
 
 
 h1. Slides
+
+
+p. Slides on developer techniques, best practices, from android to the IDE and beyond.
+
 
 
 
@@ -96,7 +105,7 @@ h1. Slides
 h1. Full Working Demos
 
 
-p. These full working demos can be installed via http from the android device's browser just point the android browser at the ulr and follow the directions on that webpage:
+p. These full working demos can be installed via http from the android device's browser just point the android browser at the url and follow the directions on that webpage:
 
 *
 *
