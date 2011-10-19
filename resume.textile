@@ -26,6 +26,8 @@ work-flow
 * Git/Github Mercurila/BitBucket/GoogleCode
 * Jenkins/Hudson
 * Ubuntu Linux
+* Apache HTTPd. Apache Geronimo, Jetty, JBoss, Mongrel
+* JavaNCSS, JDepend, Classycle, PMD,Checkstyle
 
 
 h1. My Digital Shadow-Online
@@ -75,13 +77,18 @@ p. While you can get a sense of my past experience and education from my linkedI
 * "video":http://www.youtube.com/watch?v=dutMCM_DB8cl
 
 
-h1. Coding Articles and Slides
+h1. Coding Articles
 
-Articles
+
 *
 *
 
-Slides
+
+h1. Slides
+
+
+
+
 *
 *
 
@@ -96,6 +103,10 @@ p. These full working demos can be installed via http from the android device's 
 
 
 h1. Contact
+
+p. The best way to get the attention of android developer is to email them with a brief introduction of who you are and the particular request you need filled and describe the benefits to filling your request. And as always bullet points and staying onpoint help.
+
+
 
 
 * Fred Grott
