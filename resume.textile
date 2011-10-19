@@ -10,18 +10,22 @@ gradient: top_bottom blue navy
 h1. Fred Grott's Resume
 
 
- Use the arrows to move through the slides
+ _Use the arrows to move through the slides_
 
 h1. Tools I use
 
 * Java OOP knowledge combined with how Dalvik VM operates
-* Eclipse IDE, Google AYDT plugin, Apache AnT
+* Eclipse IDE, Google ADT plugin, Apache AnT
 * Dependency Injection; AndroidAnnotations and RoboGuice/Guice
-* Instrumented Testing, AndroidMock, GUI blackbox testing
+* Instrumented Testing, AndroidMock, GUI blackbox testing, Robotium
+* JVM Shadow Mock Testing(Robolectric)
 * Singletons, MVP patterns, MVC patterns
 * Agile practices that fit the problems being solved and the situation
 * Ruby/JRuby, Groovy, Python to integrate tools together in my developer
 work-flow
+* Git/Github Mercurila/BitBucket/GoogleCode
+* Jenkins/Hudson
+* Ubuntu Linux
 
 
 h1. My Digital Shadow-Online
@@ -58,13 +62,45 @@ h1. Experience
 p. While you can get a sense of my past experience and education from my linkedINprofile you really should instead view my video demos of actually working applications, experimental applications demos, my coding articles with slides, etc. Thus I will give short list with links and than links at the end to see more:
 
 
+* Custom UI Development
+* "video":http://www.youtube.com/watch?v=e-iQIkC-u-g
+
+* LiveWallpaper Using OpenGL
+* "video":http://www.youtube.com/watch?v=4oGKcIuYiQE
+
+* Customizing Default Android Applicatins Such as HomeScreen
+* "video":http://www.youtube.com/watch?v=hWStoqEvz54
+
+* Cross Platform Apps Using PhoneGap
+* "video":http://www.youtube.com/watch?v=dutMCM_DB8cl
+
+
+h1. Coding Articles and Slides
+
+Articles
+*
+*
+
+Slides
+*
+*
+
+
+h1. Full Working Demos
+
+
+p. These full working demos can be installed via http from the android device's browser just point the android browser at the ulr and follow the directions on that webpage:
+
+*
+*
+
 
 h1. Contact
 
 
 * Fred Grott
 * Greater ChicagoLand Area
-* email: "fred.grott@mgail.com":mailto:fred.grott@gmail.com?subject=I saw your resume and
+* email: "fred.grott@gmail.com":mailto:fred.grott@gmail.com?subject=I saw your resume and
 * gtalk: fred.grott
 * cell phone and GoogleVoice numbers: ask for them
 
